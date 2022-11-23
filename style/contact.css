@@ -1,0 +1,43 @@
+
+
+.active:hover{
+    font-size: 18px;
+    transition: ease 0.5s 0.5s;
+}
+
+.nav-link:hover{
+    font-size: 18px;
+    transition: ease 0.5s 0.5s;
+}
+
+
+
+.container_zagalovok{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.container_iframe{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.footer_hr{
+    width: 100%;
+    border-top: 3px solid;
+    color: rgb(134, 68, 195);
+    border-radius: 5px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_ps{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(87, 86, 86);
+}
