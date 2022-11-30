@@ -138,6 +138,12 @@
     
 }
 
+.woomen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .woomen_div{
     display: flex;
     justify-content: start;
@@ -148,6 +154,10 @@
     width: 400px;
     margin: 50px 50px 50px 50px ;
     border-radius: 5px;
+}
+
+.woomen_li{
+    font-size: 30px;
 }
 
 .footer_hr{
